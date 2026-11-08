@@ -31,7 +31,7 @@ This project showcases the story and invitation of Watani Stiner, who escaped fr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/stynerdev225/WataniStiner-Passing-The-Fire-Flyer-main-.git
+git clone https://github.com/StynerStiner/WataniStiner-Passing-The-Fire-Flyer-main-.git
 cd WataniStiner-Passing-The-Fire-Flyer-main-
 ```
 
